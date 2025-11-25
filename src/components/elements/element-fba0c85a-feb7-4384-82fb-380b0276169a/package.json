@@ -1,0 +1,1 @@
+{"name":"ww-primevue-slider","version":"0.4.0","scripts":{"build":"weweb build","serve":"weweb serve"},"dependencies":{"primevue":"4.2.5","@primevue/themes":"4.2.5"},"devDependencies":{}}

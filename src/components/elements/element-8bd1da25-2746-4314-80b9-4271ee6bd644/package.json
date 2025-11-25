@@ -1,0 +1,1 @@
+{"name":"cron-schedule-builder","version":"1.0.6","scripts":{"build":"weweb build","serve":"weweb serve"},"devDependencies":{}}
